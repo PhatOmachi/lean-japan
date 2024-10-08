@@ -1,19 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-}
 
-.container {
+.containerr {
     text-align: center;
 }
 
@@ -21,7 +8,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.flashcard {
+.flashcardd {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -36,7 +23,7 @@ h1 {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.choices {
+.choicess {
     display: flex;
     justify-content: center;
     gap: 10px;
